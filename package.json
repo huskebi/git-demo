@@ -1,0 +1,24 @@
+{
+  "name": "gulp-demo",
+  "version": "1.0.0",
+  "description": "1、命令行创建npm的配置文件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hu",
+  "license": "ISC",
+  "keywords": [
+    "租车在线"
+  ],
+  "devDependencies": {
+    "browser-sync": "^2.17.5",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-less": "^3.1.0",
+    "gulp-obfuscate": "^0.2.9",
+    "gulp-uglify": "^2.0.0"
+  }
+}
